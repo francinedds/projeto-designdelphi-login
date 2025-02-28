@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/11/13 12:35:05.000.314,=C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/01/14 12:56:28.000.961,=C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/02/26 15:21:30.000.626,=C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/02/26 15:24:49.000.413,C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi\views\view.login.pas=C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/02/26 15:24:49.000.413,C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi\views\view.login.dfm=C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2025/02/26 15:26:04.000.176,C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\ProjetoDesignDelphi.dproj=C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/02/26 15:29:06.000.574,C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi\ProjetoDesignDelphi.dproj=C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\ProjetoDesignDelphi.dproj</Transaction>
+    <Transaction>2025/02/28 14:12:42.000.697,C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi\ProjetoDesignDelphi.dproj=C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi\ProjetoDesignDelphiLogin.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
